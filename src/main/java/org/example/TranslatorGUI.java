@@ -164,7 +164,6 @@ public class TranslatorGUI {
             }).start();
         });
 
-        // ===================== Футер с копирайтами =====================
         JLabel footer = new JLabel("Created by Denwer.", SwingConstants.CENTER);
         gbc.gridx = 0; gbc.gridy = row; gbc.gridwidth = 3;
         gbc.anchor = GridBagConstraints.CENTER;
