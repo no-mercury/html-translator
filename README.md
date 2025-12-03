@@ -44,7 +44,7 @@ html-translator/
 1. Склонируйте репозиторий
 
 ```bash 
-git clone https://github.com/yourusername/html-translator.git
+git clone https://github.com/no-mercury/html-translator.git
 ```
 
 2. Скачайте зависимости
